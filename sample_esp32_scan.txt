@@ -1,0 +1,8 @@
+Starbucks,00:11:22:33:44:55,-45,6,WPA2
+FreeWiFi,AA:BB:CC:DD:EE:FF,-30,1,Open
+HomeNetwork,11:22:33:44:55:66,-60,11,WPA3
+FakeStarbucks,77:88:99:AA:BB:CC,-50,6,Open
+OfficeWiFi,AA:EE:FF:00:22:11,-70,9,WPA2
+GuestNetwork,33:44:55:66:77:88,-25,1,WPA2
+Anime,35:23:55:11:88:99,-50,1,Open
+Office,DD:EE:FF:00:11:22,-70,9,Open

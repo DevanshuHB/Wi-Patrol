@@ -1,0 +1,3 @@
+HomeNetwork,11:22:33:44:55:66,-60,11,WPA3,Unknown: Safe
+Starbucks,00:11:22:33:44:55,-45,6,WPA2,Unknown: Safe
+
